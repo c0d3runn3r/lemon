@@ -1,0 +1,23 @@
+{
+  "name": "lemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0d3runn3r/lemon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0d3runn3r/lemon/issues"
+  },
+  "homepage": "https://github.com/c0d3runn3r/lemon#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "robinhood": "^1.7.0"
+  }
+}
